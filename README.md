@@ -1,4 +1,4 @@
- <img align="right" width="250px" style="margin-top:-20px" src="[https://ibb.co/s646KMq](https://i.ibb.co/X3P37vt/Microsoft-Teams-image.jpg)">
+ <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/X3P37vt/Microsoft-Teams-image.jpg">
 
 
 <div display="inline-block">

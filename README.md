@@ -1,4 +1,4 @@
- <img align="right" width="250px" style="margin-top:-20px" src="https://picwishhk.oss-cn-hongkong.aliyuncs.com/tasks/output/segmentation/8965a719-fede-4196-8b7c-19cbee2a2680-image.png?Expires=1687819282&OSSAccessKeyId=LTAI5tGjJnh66c1txANiRBQN&Signature=rRpMx79dSN0rBmUoLb/tkCuzj7o%3D">
+ <img align="right" width="250px" style="margin-top:-20px" src="https://o.remove.bg/downloads/e6eccb8d-7597-4716-b833-569e5a5452e3/MicrosoftTeams-image-removebg-preview.png">
 
 
 <div display="inline-block">

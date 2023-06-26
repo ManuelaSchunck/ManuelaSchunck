@@ -3,7 +3,7 @@
 
 <div display="inline-block">
  
- <h1 align="left">Franciele Aires</h1>
+ <h1 align="left">Manuela Schunck Araújo</h1>
  
  <a href="https://www.instagram.com/frann.aiires/?hl=pt-br">
     <img align="left" width="130px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top;">

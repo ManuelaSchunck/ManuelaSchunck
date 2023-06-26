@@ -54,7 +54,7 @@
 <p align="center">
 <a href="https://github.com/manuelaschunck">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelaschunck&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelaschunck&layout=compact&langs_count=8&theme=blue"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelaschunck&layout=compact&langs_count=8&theme=black"/>
 </a>
 </p>
  

@@ -32,7 +32,7 @@
 </p>
 <br>
  
- ### 🖥️ Tecnologias: 
+ <center> ### 🖥️ Tecnologias: </center>
   <p align="center">
 <img width="200px" align="right" src="C:\Users\user\Downloads\MicrosoftTeams-image.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>

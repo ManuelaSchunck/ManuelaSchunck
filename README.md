@@ -22,13 +22,13 @@
  
  ## Hey, Devs! 💡
  
- Meu nome é Franciele, tenho 16 anos e moro em Mongaguá-SP. Estudo na Etec Adolpho Berezin, (Desenvolvimento de Sistemas) e minha maior paixão é programar!  🌏
+ Meu nome é Manu, tenho 16 anos e moro em Itanhaém-SP. Estudo na Etec Adolpho Berezin, (Desenvolvimento de Sistemas).
  
  <br>
  <br>
 
  <p align="center">
-  <img src="https://media.giphy.com/media/eGlWh8b2oDeSuFjGM6/giphy.gif" width="400">
+
 </p>
 <br>
  
@@ -43,18 +43,18 @@
 <br><br>
 <div display="inline-block">
  
- <p align="left">📚 Estou estudando TypeScript, Angular, React, JavaScript e PHP na Udemy!;</p>
+ <p align="left">📚 Estou estudando Full Stack na Udemy</p>
  <p align="left">💻 Estou me aprimorando em todas as linguagens que tenho conhecimento nos cursos da Udemy!;</p>
- <p align="left">✍ Faço curso de inglês no CNA, meu conhecimento é básico-intermediário;</p>
- <p align="left">💡 Estou planejando e projetando o meu primeiro portfólio com todos os meus conhecimentos e projetos, logo mais irei postar aqui!.</p>
+ <p align="left">✍ Faço curso de inglês na Wizard, meu conhecimento é básico-intermediário;</p>
+
  
  <br>
  
  ##
 <p align="center">
-<a href="https://github.com/francieleaires">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=francieleaires&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=francieleaires&layout=compact&langs_count=8&theme=synthwave"/>
+<a href="https://github.com/manuelaschunck">
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelaschunck&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelaschunck&layout=compact&langs_count=8&theme=synthwave"/>
 </a>
 </p>
  

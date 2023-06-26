@@ -3,7 +3,7 @@
 
 <div display="inline-block">
  
- <h1 align="left">Manuela Schunck Araújo</h1>
+ <h1 align="left">Manuela Schunck Araujo</h1>
  
  <a href="https://www.instagram.com/frann.aiires/?hl=pt-br">
     <img align="left" width="130px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top;">
@@ -54,7 +54,7 @@
 <p align="center">
 <a href="https://github.com/manuelaschunck">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manuelaschunck&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelaschunck&layout=compact&langs_count=8&theme=synthwave"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelaschunck&layout=compact&langs_count=8&theme=blue"/>
 </a>
 </p>
  

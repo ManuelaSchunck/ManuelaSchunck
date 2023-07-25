@@ -40,6 +40,9 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
 <code><img width="40px" src="https://github.com/ManuelaSchunck/Me/blob/main/mysql.png?raw=true" title = "MySQL"/></code>
+<code><img width="40px" src="https://github.com/ManuelaSchunck/Me/blob/main/bootstrap.png?raw=true" title = "Bootstrap"/></code>
+<code><img width="40px" src="https://github.com/ManuelaSchunck/Me/blob/main/figma.png?raw=true" title = "Figma"/></code>
+<code><img width="40px" src="https://github.com/ManuelaSchunck/Me/blob/main/php.png?raw=true" title = "PHP"/></code>
    </p>
 <br><br>
 <div display="inline-block">

@@ -1,4 +1,4 @@
- <img align="right" width="250px" style="margin-top:-20px" src="blob:https://teams.microsoft.com/23018b4d-17b6-411a-889d-7f5146e45a17">
+ <img align="right" width="250px" style="margin-top:-20px" src="file:///C:/Users/user/Pictures/MicrosoftTeams-image-removebg-preview.png">
 
 
 <div display="inline-block">

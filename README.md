@@ -1,4 +1,4 @@
- <img align="right" width="250px" style="margin-top:-20px" src="file:///C:/Users/user/Pictures/MicrosoftTeams-image-removebg-preview.png">
+ <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/ManuelaSchunck/Me/blob/main/Avatar.png?raw=true">
 
 
 <div display="inline-block">

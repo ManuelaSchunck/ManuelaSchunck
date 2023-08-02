@@ -5,15 +5,13 @@
  
  <h1 align="left">Manuela Schunck Araujo</h1>
  
- <a href="https://www.instagram.com/frann.aiires/?hl=pt-br">
-    <img align="left" width="130px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top;">
+ <a href="https://instagram.com/manuela.schunck?igshid=OGQ5ZDc2ODk2ZA==">
+    <img align="left" width="130px" src="https://img.shields.o/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/fran-aires/">
     <img align="left" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="vertical-align:top;">
   </a>
- <a href="https://mail.google.com/mail/u/f.aires2016@gmail.com">
-    <img align="left" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top;">
-  </a>
+
  
  
  <br>

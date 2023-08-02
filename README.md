@@ -9,7 +9,7 @@
     <img align="left" width="130px" src="https://github.com/ManuelaSchunck/ManuelaSchunck/blob/main/icons8-instagram-50.png?raw=true" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav">
-    <img align="left" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="vertical-align:top;">
+    <img align="left" width="120px" src="https://github.com/ManuelaSchunck/ManuelaSchunck/blob/main/icons8-linkedin-100.png?raw=true" alt="Linkedin" style="vertical-align:top;">
   </a>
 
  

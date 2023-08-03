@@ -20,7 +20,7 @@
  
  ## Hey, Devs! 💡
  
- Meu nome é Manu, tenho 16 anos e moro em Itanhaém-SP. Estudo na Etec Adolpho Berezin, (Desenvolvimento de Sistemas).
+ Meu nome é Manuela, tenho 16 anos e moro em Itanhaém-SP. Atualmente curso o ensino médio na Etec Adolpho Berezin integrado com o técnico em desenvolvimento de sistemas.
  
  <br>
  <br>
